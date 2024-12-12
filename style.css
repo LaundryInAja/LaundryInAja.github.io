@@ -9,7 +9,6 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     background-image: url('logo\ .jpg');
-    background-size: 50%; /* Resize the background image to 50% of its original size */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent the image from repeating */
     background-color: #f4f4f4;
